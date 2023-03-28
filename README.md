@@ -12,7 +12,9 @@ CSS
 
 Flex box
 
+
 Made by:
 Thiago Da Coregio
 Linkedin: https://www.linkedin.com/in/thiago-hert-da-cor%C3%A9gio-40a897127/
+
 Website: https://project-alurabooks.netlify.app/
