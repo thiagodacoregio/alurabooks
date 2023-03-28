@@ -15,9 +15,9 @@ Projeto feito durante o curso de responsividade da Alura / Project made during A
 * Flex box
 
 
-##Made by:
+## Made by:
 
-###Thiago Da Coregio
+### Thiago Da Coregio
 
 ### :computer:Linkedin: https://www.linkedin.com/in/thiago-hert-da-cor%C3%A9gio-40a897127/
 
