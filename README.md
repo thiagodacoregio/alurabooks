@@ -21,4 +21,4 @@ Projeto feito durante o curso de responsividade da Alura / Project made during A
 
 ### :computer:Linkedin: https://www.linkedin.com/in/thiago-hert-da-cor%C3%A9gio-40a897127/
 
-### :computer:Website: https://project-alurabooks.netlify.app/
+### :computer:Website: https://thiagodacoregio.github.io/alurabooks/
